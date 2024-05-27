@@ -7,7 +7,7 @@
 }
 #iten1{
     border: solid 2px gold;
-    height: 50px;
+    height: 20%;
     width: 100%;
     display: flex;
 }
@@ -18,7 +18,7 @@
 }
 #iten2{
     border: solid 2px gold;
-    height: 50px;
+    height: 20%;
     width: 100%;
 }
 #elemento2{
@@ -28,7 +28,7 @@
 }
 #iten3{
     border: solid 2px gold;
-    height: 50px;
+    height: 20%;
     width: 100%;
 }
 #elemento3{
@@ -38,7 +38,7 @@
 }
 #iten4{
     border: solid 2px gold;
-    height: 50px;
+    height: 20%;
     width: 100%;
 }
 #elemento4{
@@ -48,6 +48,6 @@
 }
 #iten5{
     border: solid 2px gold;
-    height: 50px;
+    height: 20%;
     width: 100%;
 }

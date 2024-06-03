@@ -2,52 +2,103 @@
     display: flex;
     width: 100%;
     height: 100vh;
-    background-color:  blueviolet;
+    background-color: rgb(136, 0, 255);
     flex-wrap: wrap;
+    color: aliceblue;
 }
-#iten1{
-    border: solid 2px gold;
+
+#item1{
+    border: solid 1px black;
     height: 20%;
     width: 100%;
     display: flex;
 }
+
 #elemento1{
-    border: solid 2px gold;
+    border: solid 1px black;
     height: 100%;
     width: 25%;
 }
-#iten2{
-    border: solid 2px gold;
-    height: 20%;
-    width: 100%;
-}
+
 #elemento2{
-    border: solid 2px gold;
+    border: solid 1px black;
     height: 100%;
     width: 25%;
 }
-#iten3{
-    border: solid 2px gold;
-    height: 20%;
-    width: 100%;
-}
+
 #elemento3{
-    border: solid 2px gold;
+    border: solid 1px black;
     height: 100%;
     width: 25%;
 }
-#iten4{
-    border: solid 2px gold;
-    height: 20%;
-    width: 100%;
-}
+
 #elemento4{
-    border: solid 2px gold;
+    border: solid 1px black;
     height: 100%;
     width: 25%;
 }
-#iten5{
-    border: solid 2px gold;
+
+#item2{
+    border: solid 1px black;
     height: 20%;
     width: 100%;
+    display: flex;
+}
+
+#item3{
+    border: solid 1px black;
+    height: 20%;
+    width: 100%;
+}
+
+#item4{
+    border: solid 1px black;
+    height: 20%;
+    width: 100%;
+}
+
+#item5{
+    border: solid 1px black;
+    height: 20%;
+    width: 100%;
+}
+
+#resultadoSoma{
+    background-color: rgb(43, 255, 0);
+    color: white;
+}
+
+#resultadoSubtracao{
+    background-color: rgb(215, 5, 5);
+    color: white;
+}
+
+#resultadoMultiplicacao{
+    background-color: rgb(8, 0, 255);
+    color: white;
+}
+
+#resultadoDivisao{
+    background-color: rgb(0, 44, 69);
+    color: white;
+}
+
+#resultadoConversao{
+    background-color: rgb(78, 198, 98);
+    color: white;
+}
+
+#resultadoConversao1{
+    background-color: rgb(0, 191, 255);
+    color: white;
+}
+
+#areaRe{
+    background-color: rgb(141, 133, 16);
+    color: white;
+}
+
+#areaCircu{
+    background-color: rgb(255, 0, 200);
+    color: white;
 }
